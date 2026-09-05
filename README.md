@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Matt 
 
-<!--
-**Matth-eo/Matth-eo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer focused on building modern web applications.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 BS Information Technology graduate
+- 💻 Interested in Software Engineering and Full-Stack Development
+- 🔨 Currently building full-stack projects
+- 🌱 Improving my skills in system design, backend development, and databases
+
+## 🛠️ Tech Stack
+
+JavaScript • TypeScript • React • Next.js • Node.js  
+Express • PostgreSQL • MongoDB • Prisma • Tailwind CSS
