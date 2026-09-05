@@ -34,18 +34,6 @@ continuously improving my knowledge of software development.
 - Backend development and REST APIs
 - Database design and management
 - Improving software engineering fundamentals
-
-### Featured Project
-
-**ApplyFlow**
-
-A full-stack job application management platform for organizing
-applications and tracking progress throughout the hiring process.
-
 ---
-
-<div align="center">
-
-Software Developer · Philippines
 
 </div>
