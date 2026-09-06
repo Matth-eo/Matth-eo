@@ -1,12 +1,6 @@
-<div align="center">
-
-# Hi, I'm Matt
-
-### Software Developer · Full-Stack Web Development
-
+# Hi, I'm Matt👋
+**Full-Stack Web Developer**  
 Building practical and modern web applications.
-
-</div>
 
 ---
 
