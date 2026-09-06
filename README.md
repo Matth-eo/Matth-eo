@@ -32,7 +32,7 @@ statuses, and the overall job search process.
 
 [Repository](YOUR_APPLYFLOW_REPO) · [Live Demo](YOUR_APPLYFLOW_DEMO)
 
-#### Bug Tracker
+#### Tracebit
 
 A full-stack issue tracking application for reporting, organizing,
 and managing software bugs and development tasks.
