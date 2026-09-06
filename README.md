@@ -30,7 +30,7 @@ statuses, and the overall job search process.
 
 `Next.js` `TypeScript` `PostgreSQL` `Prisma`
 
-[Repository](YOUR_APPLYFLOW_REPO) · [Live Demo](YOUR_APPLYFLOW_DEMO)
+[Repository](YOUR_APPLYFLOW_REPO) · 
 
 #### Tracebit
 
@@ -39,7 +39,7 @@ and managing software bugs and development tasks.
 
 `Next.js` `TypeScript` `PostgreSQL` `Prisma`
 
-[Repository](YOUR_BUG_TRACKER_REPO) · [Live Demo](YOUR_BUG_TRACKER_DEMO)
+[Repository](YOUR_BUG_TRACKER_REPO) ·
 
 #### Likhamat
 
